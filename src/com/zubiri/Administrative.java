@@ -9,9 +9,9 @@ public class Administrative extends Worker {
 	/**
 	 * Constructor
 	 * 
-	 * @param name
+	 * @param name The name
 	 * @param birthDate  in format 'yyyy/mm/dd'
-	 * @param telephone
+	 * @param telephone 
 	 * @param dni
 	 * @param absenses   Number of absences
 	 * @param salary
